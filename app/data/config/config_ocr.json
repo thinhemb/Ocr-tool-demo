@@ -1,0 +1,5 @@
+{
+  "det": "data\\infer\\det\\onnx\\det_ppocr_v4.onnx",
+  "rec_japan": "data\\infer\\rec\\onnx\\rec_jpn_ppocr_v3.onnx",
+  "rec_en": "data\\infer\\rec\\onnx\\rec_en_ppocr_v4.onnx"
+}

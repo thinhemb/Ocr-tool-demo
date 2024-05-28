@@ -1,0 +1,149 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/Templates/icon/capture-2.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/common_utils;common_utils/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/config;config/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/data;data/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/mapper;mapper/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/log;log/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/object_models;object_models/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/Ocr;Ocr/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/pipeline;pipeline/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/Templates;Templates/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/yolo_detector;yolo_detector/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/dconfig.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/extract_info.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app/log.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/KNT21818/Documents/WorkSpace/Tool_hyouka_consult_v2.0/app;app/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pyclipper"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "shapely"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "skimage"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "onnxruntime"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "PIL"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "cv2"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pandas"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "xlwings"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}

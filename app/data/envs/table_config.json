@@ -1,0 +1,31 @@
+{
+  "key_signal": {
+    "location": "in",
+    "texts": [
+      "ECM",
+      "EV/HEV",
+      "アクテイプテスト"
+    ]
+  },
+  "current_situation": {
+    "texts": [
+      "現在の状況"
+    ]
+  },
+  "engine": {
+    "texts": [
+      "エンジン"
+    ]
+  },
+  "key_values": {
+    "texts": [
+      "はい",
+      "リーン",
+      "待機中",
+      "モード1",
+      "リッチ",
+      "完了",
+      "モードイ"
+    ]
+  }
+}
