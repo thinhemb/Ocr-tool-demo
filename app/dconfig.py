@@ -33,7 +33,7 @@ class DevelopmentConfig(Config):
     # if os.getenv('SECRET_AUTHEN_KEY'):
     #     SECRET_AUTHEN_KEY = os.getenv('SECRET_AUTHEN_KEY')
     # else:
-    #     SECRET_AUTHEN_KEY = 'tX5YKLeoYehSUjSDrFPIwpO3h52A1ZI7hBPjJWrX4zk'
+    #     SECRET_AUTHEN_KEY = ''
 
     # Folder config
     if os.getenv('DATA_DIR'):
